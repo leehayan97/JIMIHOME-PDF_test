@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>취급설명서 보기</title>
+  <style>
+    *{margin: 0; padding: 0;}
+    body{
+      width: 100%;
+      height: 100vh;
+    }
+    .VIEW_btn{
+      padding: 10px;
+      width: 130px;
+      background-color: #000;
+      color: #fff;
+      border-radius: 10px;
+      cursor: pointer;
+      margin-top: 10px;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <span class="VIEW_btn">클릭해서 보기</span>
+</body>
+</html>
